@@ -1,2 +1,6 @@
 Code for index
+
 code for bufalo
+
+Code for dog
+
